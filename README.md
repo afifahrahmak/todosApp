@@ -52,7 +52,7 @@ Heroku hosts *apps* on the internet, not static websites. To get it to run your 
    ![heroku create app](./assets/imgReadme/5.png)
 
 1. in section _Connect to Github_, search your repository appName and click **connect** until the section change to _App connected to Github_
-   from:
+   <br>from:
    ![heroku create app](./assets/imgReadme/6.png)
    to :
    ![heroku create app](./assets/imgReadme/7.png)
