@@ -52,8 +52,9 @@ Heroku hosts *apps* on the internet, not static websites. To get it to run your 
    ![heroku create app](./assets/imgReadme/5.png)
 
 1. in section _Connect to Github_, search your repository appName and click **connect** until the section change to _App connected to Github_
-
+   from:
    ![heroku create app](./assets/imgReadme/6.png)
+   to :
    ![heroku create app](./assets/imgReadme/7.png)
 
 1. to finish the step you have to click **deploy branch** in the section _Manual deploy_
@@ -61,4 +62,6 @@ Heroku hosts *apps* on the internet, not static websites. To get it to run your 
    ![heroku create app](./assets/imgReadme/8.png)
 
 1. your app has built and delployed to heroku, clcik **view** button, you can access your app in `<your-app-name>.herokuapp.com`.
+    ![heroku create app](./assets/imgReadme/9.png)
+
 
